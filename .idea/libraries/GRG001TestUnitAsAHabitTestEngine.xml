@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GRG001TestUnitAsAHabitTestEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../GRG001JUnitAsAHabitTestEngine/out/artifacts/GRG001TestUnitAsAHabitTestEngine_jar/GRG001TestUnitAsAHabitTestEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
